@@ -1,1 +1,1 @@
-Hello there, I'm Ehenew. Omnifood is I rebuilt it using HTML and CSS. These are the basic building blocks of web development, and I'm excited to continue learning and exploring more technologies in the future!
+Hello there, I'm Ehenew. Omnifood crafted by Instructor Jonas is my first project in the web development worl. I rebuilt it using HTML and CSS. These are the basic building blocks of web development, and I'm excited to continue learning and exploring more technologies in the future!
